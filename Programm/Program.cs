@@ -39,8 +39,12 @@ for (int i = 0; i < M.Length; i++)
 if (M[i].Length <= 3)
 
 
+
+
 N[index] = M[i];
-index++;
+
+
+
 
 }
 
